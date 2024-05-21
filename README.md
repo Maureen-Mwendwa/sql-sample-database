@@ -12,3 +12,5 @@ This repository contains examples of SQL code used to create a sample database n
 -Finding distinct values in a column (genre)
 -Aliasing a column name (author to book author)
 
+**SELECT * FROM books;**
+![select-all](https://github.com/Maureen-Mwendwa/sql-sample-database/assets/149548409/7a0409e9-3e80-44ba-96fe-4bb9c0800477)
